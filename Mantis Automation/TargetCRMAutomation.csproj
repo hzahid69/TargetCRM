@@ -84,7 +84,6 @@
     <Compile Include="BaseClasses\TestBase.cs" />
     <Compile Include="Helpers\DataDrivenCSV.cs" />
     <Compile Include="Helpers\DriverFactory.cs" />
-    <Compile Include="Helpers\TakeScreenshotsHelper.cs" />
     <Compile Include="Helpers\WaitHelper.cs" />
     <Compile Include="Pages\LoginPage.cs" />
     <Compile Include="Pages\DashboardPage.cs" />
